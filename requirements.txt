@@ -1,4 +1,4 @@
-anyio==3.6.1; python_version >= "3.7" and python_full_version >= "3.6.2"
+anyio==4.4.0; python_version >= "3.7" and python_full_version >= "3.6.2"
 asgiref==3.5.2; python_version >= "3.7"
 asyncpg==0.25.0; python_full_version >= "3.6.0"
 cachetools==5.2.0; python_version >= "3.7" and python_version < "4.0" and (python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.6.0")
